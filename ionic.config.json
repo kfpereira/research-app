@@ -1,0 +1,9 @@
+{
+  "name": "pesquisaApp",
+  "app_id": "pesquisaApp",
+  "gulpStartupTasks": [
+    "sass",
+    "scripts",
+    "watch"
+  ]
+}
